@@ -1,0 +1,3 @@
+Information: 100(л) 50(пр) 20(лаб)
+Physics: 30(л) - 10(лаб)
+Physicalculture: - 30(пр) -
